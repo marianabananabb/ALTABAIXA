@@ -1,0 +1,76 @@
+
+  @font-face {
+    font-family: 'karrik';
+    src: url('Karrik-Regular.ttf') format('opentype');
+    font-weight: normal;
+  }
+ 
+
+h1,p,h2{
+    font-family: karrik, sans-serif;
+}
+  .primeira {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content:center;
+
+  }
+
+  .primeira1{
+      width: 30%; flex-direction: row;
+      text-align: center;
+   
+  }
+  .primeira1 h1{
+    width: 30%; 
+    flex-direction: row;
+    margin: auto;
+
+ 
+}
+
+  .primeira2{
+      width: 60%;
+  }
+
+  .segunda{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+    margin-top: 60px;
+
+  }
+  .segunda1{
+    width: 30%;
+    padding: 16px;
+  }
+
+
+  .segunda2{
+    width: 50%;
+
+
+  }
+
+  img{
+      width: 100%;
+  }
+
+  
+  .terceira{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+ 
+
+  .porque1{
+      width: 40%;
+      padding: 16px;
+  }
+
+
+
