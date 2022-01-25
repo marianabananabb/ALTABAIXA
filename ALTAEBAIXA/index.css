@@ -9,6 +9,17 @@
 h1,p,h2{
     font-family: karrik, sans-serif;
 }
+.ola{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.imagem{
+margin: auto;
+width: 20%;
+
+}
   .primeira {
     display: flex;
     flex-direction: row;
@@ -39,7 +50,7 @@ h1,p,h2{
     flex-direction: row;
     margin: auto;
     justify-content: center;
-    margin-top: 60px;
+    margin-top: 120px;
 
   }
   .segunda1{
@@ -72,5 +83,29 @@ h1,p,h2{
       padding: 16px;
   }
 
+.quarta{
+  width: 40%;
+  padding: 16px;
+}
+.quarta h2{
+  margin-top: 100px;
+
+}
+
+.terceira img{
+  margin-top: 50px;
+}
 
 
+
+footer{
+  height: 150px;
+  background-color: rgb(8, 255, 8)  ;
+  display: flex;
+  margin: 0;
+}
+footer p{
+  padding: 16px;
+  margin: 0;
+  width: 40%;
+}
